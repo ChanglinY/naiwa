@@ -5,7 +5,6 @@ Windows 桌面宠物：透明置顶、自动发呆/散步、可拖动、右键�
 
 ## 快速交接
 
-- 项目路径：`F:\naiwa`；用中文对话。
 - 技术栈：Python 3.14 + PySide6，虚拟环境在 `.venv`。
 - 运行：双击根目录 `run.exe`（需已安装 Python 3，并勾选 Add to PATH）。第一次会自动建 `.venv` 并安装依赖，之后直接启动 `run.py`。
 - 打包：`build.bat`（需要 .NET 8 SDK + PyInstaller，单个 exe → `dist\Naiwa.exe`）。启动器本身用 `tools\launcher\build.bat` 重编译。
