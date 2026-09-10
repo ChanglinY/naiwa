@@ -1,0 +1,47 @@
+{
+  "canvas": [
+    290,
+    240
+  ],
+  "clips": {
+    "destroy_turn": {
+      "source": "销毁1-往左转.mp4",
+      "frames": 121,
+      "fps": 24.0,
+      "horizontal_mirror": false,
+      "reverse": false
+    },
+    "destroy_slam": {
+      "source": "销毁2.mp4",
+      "frames": 73,
+      "fps": 24.0,
+      "horizontal_mirror": false,
+      "reverse": false
+    },
+    "destroy_rise": {
+      "source": "销毁3.mp4",
+      "frames": 73,
+      "fps": 24.0,
+      "horizontal_mirror": false,
+      "reverse": false
+    },
+    "destroy_return": {
+      "source": "销毁1-往左转.mp4",
+      "frames": 121,
+      "fps": 24.0,
+      "horizontal_mirror": false,
+      "reverse": true
+    },
+    "destroy_sniff": {
+      "source": "摸屁股闻手.mp4",
+      "frames": 121,
+      "fps": 24.0,
+      "horizontal_mirror": false,
+      "reverse": false
+    }
+  },
+  "impact_anchor": [
+    0.488276,
+    0.845833
+  ]
+}

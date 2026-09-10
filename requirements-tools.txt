@@ -1,0 +1,7 @@
+# 仅在“处理素材”和“打包”时需要，运行桌宠本身不需要
+numpy
+pillow
+opencv-python          # 绿幕抠色
+imageio[pyav]          # 视频拆帧
+rembg                  # AI 抠图(自动/难素材时使用，会拉取 onnxruntime，较大)
+pyinstaller            # 打包成单个 exe
